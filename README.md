@@ -12,7 +12,7 @@
 *   在应用程序上花费的时间
 *   您在移动设备上使用的作系统
 
-The Application does not gather precise information about the location of your mobile device.
+本应用程序不会收集有关您的移动设备位置的准确信息。
 
 该应用程序会收集您设备的位置，这有助于服务提供商确定您的大致地理位置，并通过以下方式使用：
 
