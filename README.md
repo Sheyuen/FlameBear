@@ -1,67 +1,68 @@
-# FlameBear
-**隐私策略**
+# FlameBear series APP（灬熊系列APP）
 
-本隐私政策适用于由深圳社源科技有限公司（以下简称“服务提供商”）作为免费增值服务创建的移动设备版应用程序（以下简称“应用程序”）。此服务旨在“按原样”使用。
+**Privacy Policy**
 
-**信息收集和使用**
+This privacy policy applies to the 灬熊眼罩版,灬熊手持版 and 灬熊控制台 apps (hereby referred to as "Application") for mobile devices that was created by 深圳社源科技有限公司 (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
 
-应用程序会在您下载和使用时收集信息。此信息可能包括以下信息
+**Information Collection and Use**
 
-*   您设备的 Internet 协议地址（例如 IP 地址）
-*   您访问的应用程序页面、访问的时间和日期、在这些页面上花费的时间
-*   在应用程序上花费的时间
-*   您在移动设备上使用的作系统
+The Application collects information when you download and use it. This information may include information such as
 
-本应用程序不会收集有关您的移动设备位置的准确信息。
+*   Your device's Internet Protocol address (e.g. IP address)
+*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
+*   The time spent on the Application
+*   The operating system you use on your mobile device
 
-该应用程序会收集您设备的位置，这有助于服务提供商确定您的大致地理位置，并通过以下方式使用：
+The Application does not gather precise information about the location of your mobile device.
 
-*   地理定位服务：服务提供商利用位置数据提供个性化内容、相关推荐和基于位置的服务等功能。
-*   分析和改进：汇总和匿名的位置数据可帮助服务提供商分析用户行为、识别趋势并改进应用程序的整体性能和功能。
-*   第三方服务：服务提供商可能会定期将匿名位置数据传输给外部服务。这些服务可帮助他们增强应用程序并优化其产品。
+The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
 
-服务提供商可能会使用您提供的信息不时与您联系，以便为您提供重要信息、必要的通知和营销促销。
+*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
+*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
+*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
 
-为获得更好的体验，在使用应用程序时，服务提供商可能会要求您向我们提供某些个人身份信息，包括但不限于个人身份识别件、用证ID、年佡、性信息等。服务提供商请求的信息将由他们保留，并按照本隐私政策中的说明使用。
+The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
-**第三方访问**
+For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to 電子郵件、用戶ID、年齡、性別等. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
-只有汇总的匿名数据会定期传输到外部服务，以帮助服务提供商改进应用程序及其服务。服务提供商可能会按照本隐私声明中描述的方式与第三方共享您的信息。
+**Third Party Access**
 
-服务提供商可能会在以下情况下披露用户提供和自动收集的信息：
+Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
-*   根据法律要求，例如遵守传票或类似的法律程序;
-*   当他们真诚地认为有必要披露以保护他们的权利、保护您或他人的安全、调查欺诈或响应政府要求时;
-*   与代表他们工作的受信任的服务提供商共享，这些提供商不能独立使用我们向他们披露的信息，并且已同意遵守本隐私声明中规定的规则。
+The Service Provider may disclose User Provided and Automatically Collected Information:
 
-**选择退出权利**
+*   as required by law, such as to comply with a subpoena, or similar legal process;
+*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
-您可以通过卸载应用程序轻松停止应用程序的所有信息收集。您可以使用作为移动设备的一部分或通过移动应用程序市场或网络提供的标准卸载流程。
+**Opt-Out Rights**
 
-**数据保留策略**
+You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
-服务提供商将在您使用应用程序期间以及之后的合理时间内保留用户提供的数据。如果您希望他们删除您通过应用程序提供的用户提供的数据，请通过 flamebear2025@gmail.com 与他们联系，他们将在合理的时间内回复。
+**Data Retention Policy**
 
-**孩子**
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at flamebear2025@gmail.com and they will respond in a reasonable time.
 
-服务提供商不会在知情的情况下使用应用程序向 13 岁以下的儿童索取数据或向其推销数据。
+**Children**
 
-服务提供商不会故意亲自收集 来自儿童的身份信息。服务提供商 鼓励所有孩子永远不要亲自提交任何 通过应用程序和/或服务提供的身份信息。 服务提供商鼓励父母和法定监护人进行监控 其子女的互联网使用情况，并通过指示 他们的子女在未经其许可的情况下，绝不会通过应用程序和/或服务提供个人身份信息。如果您有理由相信 Child 通过应用程序和/或服务向服务提供商提供了个人身份信息， 请联系服务提供商 （flamebear2025@gmail.com），以便他们能够采取必要的措施。 您还必须年满 16 岁才能同意处理 您在您所在国家/地区的个人身份信息（在某些国家/地区，我们可能允许您的父母 或监护人代表您执行此作）。
+The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
 
-**安全**
+The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider (flamebear2025@gmail.com) so that they will be able to take the necessary actions. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
 
-服务提供商关注保护您信息的机密性。服务提供商提供物理、电子和程序保护措施，以保护服务提供商处理和维护的信息。
+**Security**
 
-**变化**
+The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
 
-本隐私政策可能会因任何原因不时更新。服务提供商将通过使用新的隐私政策更新此页面来通知您隐私政策的任何更改。建议您定期查阅本隐私政策以了解任何更改，因为继续使用即视为对所有更改的批准。
+**Changes**
 
-本隐私政策自 2025 年 5 月 12 日起生效
+This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-**您的同意**
+This privacy policy is effective as of 2025-05-12
 
-使用应用程序，即表示您同意按照本隐私政策中现在的规定以及我们修订的内容处理您的信息。
+**Your Consent**
 
-**联系我们**
+By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
 
-如果您在使用应用程序时对隐私有任何疑问，或对做法有任何疑问，请发送电子邮件至 flamebear2025@gmail.com 联系服务提供商。
+**Contact Us**
+
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at flamebear2025@gmail.com.
